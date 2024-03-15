@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "type": "Front-End",
+            "couleur": "#66C7F4",
+            "couleurBack": "#1AACEF",
+            "skills": [
+                {
+                    "title": "HTML",
+                    "imageLink": "/logo/html.png",
+                    "description": "Langage de balisage utilisé pour créer la structure et le contenu des pages Web. HTML utilise des balises pour définir les éléments et leur contenu sur une page Web, permettant ainsi de structurer le texte, les images, les liens, les formulaires, et autres éléments interactifs.",
+                    "lien": "https://www.w3.org/html/"
+                },
+                {
+                    "title": "CSS",
+                    "imageLink": "/logo/css.png",
+                    "description": "Langage de style utilisé pour définir la présentation visuelle des éléments HTML sur une page Web. CSS permet de contrôler la mise en forme, la disposition et le design des éléments HTML en appliquant des styles tels que la couleur, la taille, la police, la marge, le positionnement, etc.",
+                    "lien": "https://www.w3.org/Style/CSS/"
+                },
+                {
+                    "title": "JavaScript",
+                    "imageLink": "/logo/js.png",
+                    "description": "Langage de programmation utilisé pour rendre les pages Web interactives en ajoutant des fonctionnalités dynamiques et des comportements côté client. JavaScript est souvent utilisé pour la validation des formulaires, la manipulation du DOM (Document Object Model), les animations, les effets visuels, les requêtes AJAX, et bien plus encore.",
+                    "lien": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                }
+            ]
+        },
+        {
+            "type": "Back-End",
+            "couleur": "#C8E6C9",
+            "couleurBack": "#8FCC91",
+            "skills": [
+                {
+                    "title": "C#",
+                    "imageLink": "/logo/c_sharp.png",
+                    "description": "Langage de programmation orienté objet développé par Microsoft, principalement utilisé pour créer des applications sur la plateforme .NET. C# est largement utilisé pour le développement d'applications Windows, de jeux, d'applications Web et de services.",
+                    "lien": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+                },
+                {
+                    "title": "PHP",
+                    "imageLink": "/logo/php.png",
+                    "description": "Langage de script côté serveur principalement utilisé pour le développement Web dynamique. PHP est souvent intégré à HTML pour générer du contenu dynamique sur les sites Web, tels que la création de pages Web personnalisées, le traitement des formulaires, l'accès aux bases de données, etc.",
+                    "lien": "https://www.php.net/"
+                },
+                {
+                    "title": "C++",
+                    "imageLink": "/logo/c++.png",
+                    "description": "Langage de programmation polyvalent, utilisé pour développer des logiciels système, des applications de bureau, des jeux, des applications mobiles, des logiciels embarqués, et plus encore. C++ est apprécié pour sa performance, sa flexibilité, sa portabilité et son contrôle de bas niveau.",
+                    "lien": "https://isocpp.org/"
+                }
+            ]
+        },
+        {
+            "type": "Database",
+            "couleur": "#FFECB3",
+            "couleurBack": "#FFDB70",
+            "skills": [
+                {
+                    "title": "SQL",
+                    "imageLink": "/logo/sql.png",
+                    "description": "Langage de requête structuré utilisé pour communiquer avec les bases de données relationnelles. SQL permet de manipuler et de gérer les données stockées dans une base de données, en utilisant des opérations telles que la sélection, l'insertion, la mise à jour et la suppression de données.",
+                    "lien": "https://www.w3schools.com/sql/"
+                },
+                {
+                    "title": "MongoDB",
+                    "imageLink": "/logo/mangodb.png",
+                    "description": "Base de données NoSQL orientée documents, utilisant un modèle de données flexible basé sur des collections de documents au format JSON (JavaScript Object Notation). MongoDB est adapté pour les applications modernes nécessitant une scalabilité et une flexibilité élevées, offrant une gestion efficace de données semi-structurées et non structurées.",
+                    "lien": "https://www.mongodb.com/"
+                }
+            ]
+        },
+        {
+            "type": "Sauvegarde",
+            "couleur": "#F5BCA3",
+            "couleurBack": "#ED865A",
+            "skills": [
+                {
+                    "title": "Git",
+                    "imageLink": "/logo/git.png",
+                    "description": "Système de contrôle de version distribué, largement utilisé pour le suivi des modifications apportées au code source d'un projet logiciel. Git permet aux développeurs de collaborer efficacement en gérant les différentes versions du code source, en facilitant le partage et la fusion des modifications, et en assurant l'intégrité du code source.",
+                    "lien": "https://git-scm.com/"
+                }
+            ]
+        }
+    ]
+}

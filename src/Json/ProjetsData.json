@@ -1,0 +1,41 @@
+{
+  "projets": [
+    {
+      "id": "mon-propre-portfolio",
+      "titre": "Mon propre Portfolio",
+      "date": "2024",
+      "objectif": "Mon propre portfolio. Ce site présente les projets que j'ai réalisés et les compétences que j'ai acquises.",
+      "description": "Site web",
+      "technologies": "Vue.js",
+      "type_projet": "Projet personnel",
+      "img": "/Portfolio.png",
+      "details": {
+        "titre" : "Portfolio",
+        "contexte" : "Il était nécéssaire pour moi de créer un portfolio pour présenter mes compétences et mes projets. J'ai donc décidé de créer ce site web pour me présenter et présenter mes projets. J'ai choisi de le faire en Vue.js pour apprendre ce framework et pour pouvoir le mettre à jour facilement.",
+        "objectifs": "Ce site présente les projets que j'ai réalisés, les compétences que j'ai acquises et les expériences que j'ai accumulées dans le domaine de l'informatique. Il est constamment mis à jour avec mes nouveaux projets et compétences. En explorant ce site, vous aurez un aperçu de mon parcours professionnel et de mes compétences. Bienvenue sur mon portfolio, je vous invite à le découvrir par vous-même :)",
+        "images": [
+          "/Logo-Vuejs.png"
+        ]
+      }
+    },
+    {
+      "id": "site-statique-en-hugo",
+      "titre": "Site statique en Hugo",
+      "date": "2024",
+      "objectif": "L'objectif était de refaire le site web du département. Il fallait qu'il respecte toute les nouvelles normes d'écoresponsabilité et qu'il soit rapide.",
+      "description": "Site web",
+      "technologies": "Hugo/Blowfish",
+      "type_projet": "Projet Scolaire",
+      "img": "/hugosite.png",
+      "details": {
+        "titre": "Refonte du site du département",
+        "contexte": "Le site internet actuel du Département Informatique Graphique, disponible à l'adresse https://ig.iut-clermont.fr/, présente différentes anomalies techniques : Lenteur du serveur, Erreurs sporadiques (base de données ne répond plus, erreurs 50X), Logos obsolètes, Non ou faiblement éco-responsable.",
+        "objectifs": "Votre objectif est de créer un site internet mettant en valeur les compétences des étudiants du département. Il devra donc être éco-conçu, accessible et mettre en avant vos compétences en Informatique Graphique. Il est totalement concevable d'y intégrer des contenus en 3D temps-réel par le biais du WebGL (écrit en bas niveau, ou à l'aide d'un moteur comme Unity ou Unreal Engine). Il devra également être possible d'ajouter de nouveaux articles ou contenus par une interface dédiée (accès back-office en ligne, ou autre moyen).",
+        "images": [
+          "/hugo.png",
+          "/blowfish.png"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+/* semantic color variables for this project */
+:root {
+  /*  palette de couleur */
+  --bleu_foncee: #0A014F;
+  --blanc: #F2F4F8;
+  --beige: #ffe8d1;
+  --bleu_clair: #6874E8;
+  --glaucous: #6e75a8ff;
+  --blue-gray: #709ac2ff;
+  --bleu: #280aebff;
+  --violet: #743EB6;
+
+
+
+  background: var(--bleu_foncee) ;
+}
+.h2{
+  color: var(--beige);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* --------- */
+/*Scrollbar   */
+/* --------- */
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #2d1950;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #6874E8;
+  border-radius: 12px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #743EB6;
+  border-radius: 12px;
+}
