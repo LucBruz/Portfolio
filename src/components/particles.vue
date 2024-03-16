@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+    <div class="containerParticules">
     <vue-particles id="tsparticles" :particlesLoaded="particlesLoaded" :options="particlesOptions" />
   </div>
+</div>
 </template>
 
 <script>
@@ -19,7 +21,7 @@ export default defineComponent({
           enable: true,
           zIndex: -1,
         },
-        fpsLimit: 240,
+        fpsLimit: 60,
         interactivity: {
           events: {
 
@@ -81,4 +83,13 @@ export default defineComponent({
 });
 </script>
 
-<style scoped></style>
+<style scoped>
+.containerParticules {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+</style>
