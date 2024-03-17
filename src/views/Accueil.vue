@@ -51,35 +51,32 @@ export default {
   data() {
     return {
       images: [
-        {
-          url: '/musculation.jpg',
-          title: 'Musculation',
-          description: 'Mon exercice préféré est le développé couché. Haltérophile en devenir, la musculation est pour moi bien plus qu\'un simple loisir. C\'est à la fois une discipline, une passion et un moyen de me surpasser chaque jour.'
-        },
+
         {
           url: '/musique.jpeg',
           title: 'Musique',
-          description: 'Mon style préféré est le Hip-Hop, j\'aime particulièrement Damso. La musique me transporte et me permet d\'exprimer mes sentiments et mes émotions.'
+          description: 'Mon style préféré est le Hip-Hop, j\'aime particulièrement Damso. La musique me détend et m\'aide a me concenter.'
         },
         {
-          url: '/Veille_technologique.png',
-          title: 'Veille Technologique',
-          description: 'La technologie évolue rapidement, et il est essentiel de rester informé. Je consacre du temps chaque semaine à découvrir les dernières innovations et tendances dans le domaine technologique.'
+          url: '/musculation.jpg',
+          title: 'Musculation',
+          description: 'Mon exercice préféré est le développé couché. Haltérophile en devenir, la musculation est pour moi bien plus qu\'un simple loisir. Elle prouve ma discipline.'
         },
         {
           url: '/cuisine.jpg',
           title: 'Cuisine',
-          description: 'Je suis un véritable gourmet et j\'aime aussi mettre la main à la pâte. Cuisiner me permet d\'exprimer ma créativité et de partager des moments de bonheur autour d\'un bon repas. Chaque plat que je prépare est une histoire d\'amour et de passion.'
+          description: 'Je suis un véritable gourmet et j\'aime aussi mettre la main à la pâte. Cuisiner me permet de partager des moments avec ma famille ou mes amis.'
         },
         {
-          url: '/journalisme.jpeg',
-          title: 'Journalisme',
-          description: 'L\'information est le pilier de notre société. Je suis passionné par le journalisme car il donne une voix aux sans-voix et illumine les coins sombres de notre monde.'
+          url: '/anime.png',
+          title: 'Animé / Manga',
+          description: 'Depuis petit je suis passionné par les animés et les mangas. J\'aime particulièrement les animés de type Shonen comme Naruto, One Piece, Bleach, etc.'
+
         },
         {
           url: '/esport.png',
           title: 'Esport',
-          description: 'L\'esport n\'est pas seulement un jeu, c\'est une compétition, une passion et un mode de vie. J\'adore suivre les tournois et soutenir mes équipes préférées.'
+          description: 'L\'esport n\'est pas seulement un jeu, c\'est une compétition. J\'adore suivre les tournois et soutenir mes équipes préférées.'
         },
       ],
     };
@@ -87,9 +84,6 @@ export default {
   methods: {
 
   }
-      
-      // Ajoutez ici toute autre logique de navigation que vous pourriez avoir
-    
   
 }
 </script>

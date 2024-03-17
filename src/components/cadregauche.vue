@@ -9,7 +9,7 @@
         <img src="/selfi.jpg" alt="Luc Bruzzone">
       </div>
       <div class="conteneur">
-      <h2>Dévelopeur Full-Stack</h2>
+      <h2>Développeur Full-Stack</h2>
       <p>Je m'appelle Luc, j'ai 21 ans, je suis passioné par le développement informatique.
          Je suis actuellement en train de valider ma 3ème année de BUT informatique. </p>
     </div>
@@ -87,7 +87,7 @@
 
 .bouton {
     margin-left: 3vh; /* Space between the text container and the button */
-    background-color: var(--bleu_foncee);
+    
     align-content: center;
     align-items: center;
     display: flex;
