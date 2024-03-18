@@ -47,7 +47,7 @@ export default {
 
 .description {
     margin-top: 100px;
-    font-size: 18px; /* Augmente la taille de la police */
+    font-size: 14px; /* Augmente la taille de la police */
     line-height: 1.5; /* Espacement entre les lignes */
     word-spacing: 0.2em; /* Espacement entre les mots */
     
@@ -56,7 +56,7 @@ export default {
 .lien {
     display: flex;
     margin-top: auto;
-    font-size: 18px; /* Augmente la taille de la police */
+    font-size: 14px; /* Augmente la taille de la police */
     line-height: 1.5; /* Espacement entre les lignes */
     word-spacing: 0.2em; /* Espacement entre les mots */
     text-align: center;
