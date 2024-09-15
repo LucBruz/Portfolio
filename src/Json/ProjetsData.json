@@ -1,6 +1,44 @@
 {
   "projets": [
     {
+      "id": "ia-qu-a_demander",
+      "titre": "Chatbot IA",
+      "date": "2024",
+      "objectif": "Intégration d'un chatbot dans l'intranet, utilisant la technologie Retrieve and Generate pour répondre aux questions des employés à partir des données internes. Des technologies telles que les bases de données vectorielles, le chunking sémantique et le reranking ont également été implémentées.",
+      "description": "Site sur l'intranet",
+      "technologies": "Python, Blazor",
+      "type_projet": "Stage de fin d'étude",
+      "img": "/chatbot.png",
+      "details": {
+        "titre" : "IA qu'à demander",
+        "contexte" : "Le Centre technique interprofessionnel des fruits et légumes https://www.ctifl.fr/ est une entreprise qui aide les professionnels à être compétitifs et innovants tout en ayant une production durable. Lors de mon stagr de fin d'étude, j'ai pu intégrer dans cette entreprisr un chatbot en interne",
+        "objectifs": "L'objectif du projet est multiple et se décline en plusieurs axes. Tout d'abord, il vise à accélérer le transfert d'informations vers les professionnels de la filière des fruits et légumes, facilitant ainsi l'accès rapide aux données pertinentes. Ensuite, en intégrant des technologies d'intelligence artificielle (IA), le projet cherche à améliorer la précision et la pertinence des informations fournies, tout en optimisant le temps nécessaire à la recherche d'informations. Une autre priorité est de mieux exploiter les ressources du CTIFL, notamment en rendant les données plus accessibles et exploitables pour les employés. Enfin, l'objectif est d'améliorer la qualité des réponses fournies, que ce soit pour des questions simples ou plus complexes, en garantissant que les informations transmises soient fiables, précises et documentées. Durant les 16 semaines du projet, plusieurs étapes ont été réalisées : récupération d'informations, veille technologique, rédaction du cahier des charges, implémentation des fonctionnalités du chatbot, développement de l'interface utilisateur, et mise en recette. Au terme de ce processus, le chatbot est maintenant en production et utilisé par les employés du CTIFL, répondant à des questions grâce à un modèle IA performant, tout en citant ses sources et en intégrant un lecteur de PDF pour accéder aux documents nécessaires.",
+        "images": [
+          "/python.png",
+          "/blazor.png"
+        ]
+      }
+    },
+    {
+      "id": "on-va-ou",
+      "titre": "Site web de voyage",
+      "date": "2024",
+      "objectif": "En parallèle de mes études, j'ai choisi de m'investir dans un projet afin de développer mes compétences.",
+      "description": "Site web",
+      "technologies": "Vue.js, Python",
+      "type_projet": "Projet personnel",
+      "img": "/on_va_ou.png",
+      "details": {
+        "titre" : "On va ou",
+        "contexte" : "À la recherche d'un projet pour développer mes compétences en parallèle de mes études, j'ai échangé avec des proches sur des idées pertinentes et utiles. C'est à la suite de ces discussions que l'idée de créer ce site est née. Nous avons pensé à un outil qui pourrait aider les voyageurs à mieux planifier leurs séjours en fonction des conditions météorologiques des destinations touristiques.",
+        "objectifs": "L'objectif de ce site est de permettre aux utilisateurs de rapidement identifier les villes touristiques en France qui correspondent à leurs attentes en termes de météo. Grâce à une API récupérant les données météorologiques des 30 villes les plus visitées, les utilisateurs peuvent entrer leurs dates de voyage et définir le nombre de jours de mauvais temps qu'ils sont prêts à tolérer. Le site leur propose ensuite une liste des villes correspondant à ces critères, qu'ils peuvent trier selon leurs préférences. Ce projet facilite ainsi la préparation de voyages en évitant les mauvaises surprises liées au climat.",
+        "images": [
+          "/Logo-Vuejs.png",
+          "/python.png"
+        ]
+      }
+    },
+    {
       "id": "mon-propre-portfolio",
       "titre": "Mon propre Portfolio",
       "date": "2024",

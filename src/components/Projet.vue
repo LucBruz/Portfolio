@@ -44,7 +44,7 @@
 .titre {
   text-align: center;
   font-size: 2rem;
-  margin-top: 2vh;
+  margin-top: 1vh;
   color: var(--beige);
 }
 

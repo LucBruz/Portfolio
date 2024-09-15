@@ -53,7 +53,7 @@ export default {
       images: [
 
         {
-          url: '/musique.jpeg',
+          url: '/musique.jpg',
           title: 'Musique',
           description: 'Mon style préféré est le Hip-Hop, j\'aime particulièrement Damso. La musique me détend et m\'aide a me concenter.'
         },

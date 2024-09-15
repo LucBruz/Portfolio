@@ -57,6 +57,7 @@
   margin-top: 5vh;
   color: var(--beige);
   box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 1);
+  margin-bottom: 5vh;
 }
 
 .grostitre {
